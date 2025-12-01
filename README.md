@@ -20,7 +20,7 @@
  
 - 🌐 **CMPUT 301** - Event Lottery System (Android)
   - Android app for community event sign-ups with waitlists and a lottery system for fair selection.
-  - Repo: - [rocket-launch](https://github.com/CMPUT301F24rocket/rocket-launch)
+  - Repo: [rocket-launch](https://github.com/CMPUT301F24rocket/rocket-launch)
     
 - 🌐 **CMPUT 404** - Distributed Social Web App
   - CMPUT 404 project using Django with federation between nodes.
