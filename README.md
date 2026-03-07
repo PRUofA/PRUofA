@@ -1,7 +1,7 @@
 # Hey 👋
 
-- 🔭 I’m currently working on **SOILution**, a continuation of my natHacks 2025 project
-- 🌱 I’m currently learning embedded / hardware basics with ESP32, Arduino, Raspberry Pi, sensors, and servos
+- 🔭 Currently working on **SOILution**, a continuation of my natHacks 2025 project
+- 🌱 Currently learning embedded / hardware basics with ESP32, Arduino, Raspberry Pi, sensors, and servos
 - 📫 How to reach me: razminia@ualberta.ca
 
 ## Projects & Links
