@@ -14,7 +14,7 @@
 
 - **SOILution / AuraFarm** (natHacks 2025 – EcoTech).
   - Smart irrigation + soil monitoring 
-  - Originated as an natHacks 2025 project, which placed 1st in the EcoTech track, and is now being developed further.
+  - Originated as a natHacks 2025 project, which placed 1st in the EcoTech track, and is now being developed further.
   - Repo: [**SOILution**](https://github.com/naved201/Aura-Farming)
   - Devpost: [**SOILution**](https://github.com/naved201/Aura-Farming)
  
