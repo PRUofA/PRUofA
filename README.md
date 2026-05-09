@@ -1,9 +1,5 @@
 # Hey 👋
 
-- Currently working on **SOILution**, a continuation of my natHacks 2025 project
-- Currently learning embedded / hardware basics with ESP32, Arduino, Raspberry Pi, sensors, and servos
-- How to reach me: razminia@ualberta.ca
-
 ## Projects & Links
 
 **Quick links**
@@ -26,3 +22,12 @@
   - CMPUT 404 project using Django with federation between nodes.
   - Promotional Video: [Coral Social Distribution](https://youtu.be/Oo9ZhX29vD4)
   - Repo: [f25-project-coral](https://github.com/uofa-cmput404/f25-project-coral/tree/2024)
+ 
+- **CMPUT 401** - Air Heroes
+  - Unity/C# client project for Future Energy Systems: an educational board game teaching kids about air quality, pollution, and AQHI.
+  - Players roll dice, move across a board, answer blue-card facts/trivia, play minigames, and manage a visual Lung Meter/pollution score.
+  - Play Here: [Air Heroes Game](https://energyadventure.itch.io/air-heroes-game)
+  - Project Page: [Air Heroes CMPUT 401 Project](https://cmput401.ca/projects/5637f52b-a28a-490b-94bd-f18758e9f580)
+  - Promo + Demo Video: [Air Heroes Screencast](https://www.youtube.com/watch?v=D3XmP0XVBP0)
+  - Project Site: [Air Heroes](https://ualberta-cmput401.github.io/W26project-FutureEnergySystems/)
+  - Repo: [W26project-FutureEnergySystems](https://github.com/UAlberta-CMPUT401/W26project-FutureEnergySystems)
