@@ -1,19 +1,18 @@
-# Hey 👋
+# _Hey_ 👋
 
-## Projects & Links
-
-**Quick links**
-- **Devpost (hackathons):** [My Devpost](https://devpost.com/razminia)
+## **Quick links**
+- **Devpost:** [My Devpost](https://devpost.com/razminia)
 
 
-## Featured Repositories
-
+## **Projects**
+### Hackathon Projects
 - **SOILution / AuraFarm** (natHacks 2025 – EcoTech).
   - Smart irrigation + soil monitoring 
   - Originated as a natHacks 2025 project, which placed 1st in the EcoTech track, and is now being developed further.
   - Repo: [**SOILution**](https://github.com/naved201/Aura-Farming)
   - Devpost: [**SOILution**](https://github.com/naved201/Aura-Farming)
  
+### Course Projects
 - **CMPUT 301** - Event Lottery System (Android)
   - Android app for community event sign-ups with waitlists and a lottery system for fair selection.
   - Repo: [rocket-launch](https://github.com/CMPUT301F24rocket/rocket-launch)
