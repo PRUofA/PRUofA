@@ -8,7 +8,7 @@
 ### Hackathon Projects
 - **SOILution / AuraFarm** (natHacks 2025 – EcoTech).
   - Smart irrigation + soil monitoring 
-  - Originated as a natHacks 2025 project, which placed 1st in the EcoTech track.
+  - Originated as a natHacks 2025 project, which **placed 1st** in the EcoTech track.
   - Repo: [**SOILution**](https://github.com/naved201/Aura-Farming)
   - Devpost: [**SOILution**](https://github.com/naved201/Aura-Farming)
  
